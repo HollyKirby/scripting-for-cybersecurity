@@ -1,0 +1,3 @@
+codespaces-33739c
+/bin/bash
+/home/codespace
