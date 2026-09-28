@@ -1,0 +1,24 @@
+File Triage Report
+ 
+Total Files: 24
+Total Directories: 9
+Python Files: 2
+Shell Files: 1
+Log Files: 4
+Configuration Files: 3
+Empty files: 1
+Archives: 2
+ 
+Files Containing "admin": 9
+./backups/users.old:admin
+./evidence/notes.txt:admin
+./logs/access.log:192.168.1.20
+./logs/access.log:192.168.1.35
+./logs/access.log:198.51.100.24
+./logs/access.log:198.51.100.99
+./logs/access.log:203.0.113.10
+./logs/access.log:203.0.113.77
+./logs/auth.log:Sep
+./triage-report.txt:Files
+ 
+Detected File types in Evidence: 6
